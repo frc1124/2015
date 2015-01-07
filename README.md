@@ -1,4 +1,4 @@
-2015
-====
+2015 - Blank Structure
+======================
 
-2015 Recycle Rush Robot Code
+2015 Recycle Rush Blank Structure
