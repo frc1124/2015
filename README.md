@@ -1,6 +1,9 @@
-2015
-====
+2015 - Blank Structure
+======================
 
+<<<<<<< HEAD
+2015 Recycle Rush Blank Structure
+=======
 2015 Recycle Rush Robot Code
 
 Branching Workflow
@@ -12,3 +15,4 @@ We want to use a [branching workflow](https://www.atlassian.com/git/tutorials/us
  - [blank-structure](https://github.com/frc1124/2015/tree/blank-structure): This contains an empty version of the base code. Branch this for creating new "robots". Eventually, structure improvements should be backported to this tree.
 
 If you want to create a new empty branch, you can checkout the [base tag](https://github.com/frc1124/2015/releases/tag/base) and branch from there, which gets you an empty repo.
+>>>>>>> master
