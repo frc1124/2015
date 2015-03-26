@@ -318,6 +318,42 @@
 				<Property Name="TgtF_targetfileGUID" Type="Str">{449752EC-65D9-4408-BFFB-76BFB411B493}</Property>
 				<Property Name="TgtF_targetfileName" Type="Str">Dashboard.exe</Property>
 			</Item>
+			<Item Name="FRC_Dashboard_2015_dartmouth" Type="EXE">
+				<Property Name="App_INI_aliasGUID" Type="Str">{B0C960F8-2860-4100-B512-8893B10B2D6F}</Property>
+				<Property Name="App_INI_GUID" Type="Str">{0FEAA550-97E9-4678-97BF-07285AEF99A6}</Property>
+				<Property Name="App_serverConfig.httpPort" Type="Int">8002</Property>
+				<Property Name="Bld_buildCacheID" Type="Str">{3ADDDCD4-934F-466F-AF78-2155161C4B43}</Property>
+				<Property Name="Bld_buildSpecDescription" Type="Str">Build Dashboard Main.vi into an EXE that will respond to the driver station and display robot information on a PC.</Property>
+				<Property Name="Bld_buildSpecName" Type="Str">FRC_Dashboard_2015_dartmouth</Property>
+				<Property Name="Bld_excludeLibraryItems" Type="Bool">true</Property>
+				<Property Name="Bld_excludePolymorphicVIs" Type="Bool">true</Property>
+				<Property Name="Bld_localDestDir" Type="Path">../builds/FRC_Dashboard_2015_dartmouth</Property>
+				<Property Name="Bld_localDestDirType" Type="Str">relativeToProject</Property>
+				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
+				<Property Name="Bld_previewCacheID" Type="Str">{E42A93B4-314B-495F-A040-EE30CBFF640C}</Property>
+				<Property Name="Bld_version.build" Type="Int">32790</Property>
+				<Property Name="Bld_version.major" Type="Int">15</Property>
+				<Property Name="Destination[0].destName" Type="Str">Dashboard.exe</Property>
+				<Property Name="Destination[0].path" Type="Path">../builds/FRC_Dashboard_2015_dartmouth/Dashboard.exe</Property>
+				<Property Name="Destination[0].path.type" Type="Str">relativeToProject</Property>
+				<Property Name="Destination[0].type" Type="Str">App</Property>
+				<Property Name="Destination[1].destName" Type="Str">Support Directory</Property>
+				<Property Name="Destination[1].path" Type="Path">../builds/FRC_Dashboard_2015_dartmouth/data</Property>
+				<Property Name="Destination[1].path.type" Type="Str">relativeToProject</Property>
+				<Property Name="DestinationCount" Type="Int">2</Property>
+				<Property Name="Exe_iconItemID" Type="Ref">/My Computer/App EXE.ico</Property>
+				<Property Name="Source[0].itemID" Type="Str">{C2459E0D-8F94-4696-B3A4-A2F57C34915A}</Property>
+				<Property Name="Source[0].type" Type="Str">Container</Property>
+				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
+				<Property Name="Source[1].itemID" Type="Ref">/My Computer/Dashboard Main.vi</Property>
+				<Property Name="Source[1].sourceInclusion" Type="Str">TopLevel</Property>
+				<Property Name="Source[1].type" Type="Str">VI</Property>
+				<Property Name="SourceCount" Type="Int">2</Property>
+				<Property Name="TgtF_fileDescription" Type="Str">FRC_Dashboard_2015_beta</Property>
+				<Property Name="TgtF_internalName" Type="Str">FRC_Dashboard_2015_beta</Property>
+				<Property Name="TgtF_targetfileGUID" Type="Str">{BEF2D262-EEF8-4896-911B-27AE0F0C986D}</Property>
+				<Property Name="TgtF_targetfileName" Type="Str">Dashboard.exe</Property>
+			</Item>
 		</Item>
 	</Item>
 </Project>
